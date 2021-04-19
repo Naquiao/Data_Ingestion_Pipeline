@@ -1,0 +1,18 @@
+#Location of the input and the output here
+data_directory: C:\Users\nacho\repositorios\Week 6 Assignment\data
+data_name: train.csv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+column_names: ['time','user','content','task','answer','answer_correctly','elapsedt','expl']
+drop_columns: ['row_id','content_type_id']
+data_type:
+  time: int64
+  user: int32
+  content: int16
+  task: int16
+  answer: int8
+  answer_correctly: int8
+  elapsedt: float32
+  expl: boolean 
+data_clean_folder: C:\Users\nacho\repositorios\Week 6 Assignment\data_clean
+clean_data: data_clean.csv
