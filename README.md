@@ -1,4 +1,4 @@
-# Data_Ingestion_Pipeline
+# Data Ingestion Pipeline
 <img src="https://github.com/Naquiao/Data_Ingestion_Pipeline/blob/main/images/img.jpeg" width="90%"></img>
 
 This pipeline performs some basic validations to incoming datasets.
